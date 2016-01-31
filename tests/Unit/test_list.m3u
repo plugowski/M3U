@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="TVP_1.png" group-title="Popularne",TVP 1
+rtmp://test/tvp1
+
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="TVP_2.png" group-title="Popularne",TVP 2
+rtmp://test/tvp2
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="Discovery_Channel_HD.png" group-title="Rozrywka",Discovery Channel HD
+rtmp://test/discovery
+
+#EXT-X-ENDLIST
